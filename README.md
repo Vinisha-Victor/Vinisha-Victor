@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vinisha-Victor, currently studying as an undergraduate in AEC(2026).
--  At the moment, I'm working on my java and front-end development skills.
+-  At the moment, I'm working on my java and front-end and back-end development skills.
 - 📫 How to reach me --> aec.cse.vinishavictor@gmail.com
 -  Pronouns: She/her
 
